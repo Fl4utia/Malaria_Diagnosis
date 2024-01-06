@@ -7,5 +7,7 @@ In this context, this computational simulation is created to visualize and calcu
 Dielectrophoresis is a technique for distinguishing different charges with varying properties. This is achieved by applying an electric field and observing the movement of charges.
 
 ![S1](simulation.png) 
+
 ![S2](simulation_2.png)
+
 ![S3](Placa.png)
